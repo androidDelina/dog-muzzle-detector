@@ -1,0 +1,8 @@
+ultralytics==8.3.203
+flask
+opencv-python-headless
+pillow
+numpy
+reportlab
+openpyxl
+gunicorn
